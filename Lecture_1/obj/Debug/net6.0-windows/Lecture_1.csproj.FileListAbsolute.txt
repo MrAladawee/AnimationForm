@@ -1,0 +1,17 @@
+D:\ProjectC\C#\Lecture_1\Lecture_1\bin\Debug\net6.0-windows\Lecture_1.exe
+D:\ProjectC\C#\Lecture_1\Lecture_1\bin\Debug\net6.0-windows\Lecture_1.deps.json
+D:\ProjectC\C#\Lecture_1\Lecture_1\bin\Debug\net6.0-windows\Lecture_1.runtimeconfig.json
+D:\ProjectC\C#\Lecture_1\Lecture_1\bin\Debug\net6.0-windows\Lecture_1.dll
+D:\ProjectC\C#\Lecture_1\Lecture_1\bin\Debug\net6.0-windows\Lecture_1.pdb
+D:\ProjectC\C#\Lecture_1\Lecture_1\obj\Debug\net6.0-windows\Lecture_1.csproj.AssemblyReference.cache
+D:\ProjectC\C#\Lecture_1\Lecture_1\obj\Debug\net6.0-windows\Lecture_1.Form1.resources
+D:\ProjectC\C#\Lecture_1\Lecture_1\obj\Debug\net6.0-windows\Lecture_1.csproj.GenerateResource.cache
+D:\ProjectC\C#\Lecture_1\Lecture_1\obj\Debug\net6.0-windows\Lecture_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectC\C#\Lecture_1\Lecture_1\obj\Debug\net6.0-windows\Lecture_1.AssemblyInfoInputs.cache
+D:\ProjectC\C#\Lecture_1\Lecture_1\obj\Debug\net6.0-windows\Lecture_1.AssemblyInfo.cs
+D:\ProjectC\C#\Lecture_1\Lecture_1\obj\Debug\net6.0-windows\Lecture_1.csproj.CoreCompileInputs.cache
+D:\ProjectC\C#\Lecture_1\Lecture_1\obj\Debug\net6.0-windows\Lecture_1.dll
+D:\ProjectC\C#\Lecture_1\Lecture_1\obj\Debug\net6.0-windows\refint\Lecture_1.dll
+D:\ProjectC\C#\Lecture_1\Lecture_1\obj\Debug\net6.0-windows\Lecture_1.pdb
+D:\ProjectC\C#\Lecture_1\Lecture_1\obj\Debug\net6.0-windows\Lecture_1.genruntimeconfig.cache
+D:\ProjectC\C#\Lecture_1\Lecture_1\obj\Debug\net6.0-windows\ref\Lecture_1.dll
